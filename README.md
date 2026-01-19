@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Laiba Khan  
+### Software Tester & Engineer | VU Student | Part-Time Developer
 
-<!--
-**laiba-khan442/laiba-khan442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented **Software Tester and Engineer** with a strong foundation in **Quality Assurance and Web Development**.  
+Currently a **student at Virtual University (VU)**, balancing academics with **part-time development and testing work**, focused on building reliable, user-centric software.
 
-Here are some ideas to get you started:
+I enjoy breaking things *before* users do — and fixing them with clarity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 Student at **Virtual University (VU)** with strong academic performance  
+- 🧪 Software Tester (Manual, Exploratory, API-focused)  
+- 💻 Web Developer (HTML, CSS, JavaScript, WordPress)  
+- 🌍 Remote-work experienced  
+- ♟️ Analytical, structured, and quality-driven (INTJ energy)
+
+```pseudo
+function shipFeature(feature):
+    test(feature)
+    if bugDetected:
+        document(bug)
+        fix(bug)
+        retest(feature)
+    deploy(feature)
